@@ -1,0 +1,35 @@
+1. Newton Second Law
+//  Pseudocode
+//	STORE "massa benda (m)" with any value 
+//	STORE "percepatan benda (a)" with any value
+//  	STORE "result (F)" without any value
+//	CALCULATE  "massa benda (m)" times "percepatan benda (a)"
+//	SET "result (F)" value with calculation result 
+// 	DISPLAY "result (F)"
+
+2. Tahun Kabisat
+//  Pseudocode
+//  STORE "Tahun" with any value
+//	IF "Tahun" dibagi 4 sisa pembagiannya sama dengan 0 dan "Tahun" dibagi 100 sisa pembagiannya tidak sama dengan 0
+        DISPLAY "Tahun Kabisat"
+	IF "Tahun" dibagi 4 sisa pembagiannya sama dengan 0, "Tahun" dibagi 100 sisa pembagiannya sama dengan 0
+        & Tahun dibagi 400 sisa pembagiannya sama dengan 0
+		DISPLAY "Tahun Kabisat"
+//	ELSE 
+		DISPLAY "Bukan Tahun Kabisat"
+
+3. Laundry Day
+//  Pseudocode
+//	STORE "Baju Foxie"
+//	During jumlah "Baju Foxie" yang di masukan ke mesin cuci kurang dari 20 
+		DISPLAY "Baju Foxie" yang ada dalam mesin cuci
+		Apabila "Baju Foxie" masih kurang dari 20, tambah 1
+
+4.  Periksa Kuku
+//  Pseudocode
+//	STORE "Siswa"
+//	During jumlah "Siswa" yang diperiksa kukunya kurang dari sama dengan (<=) 40
+//		IF kuku "Siswa" panjang
+			DO "Hukuman"
+//		ELSE
+			DO "Pujian"
